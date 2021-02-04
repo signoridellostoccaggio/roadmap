@@ -1,6 +1,6 @@
 # Primo avvio
 
-- Registrazione utente **P5**
+- ## Registrazione utente - **P5**
 
   - ui, form di registrazione -> no username, conferma password **2**
   - ui, linee guida per l'accesso e brevissima landing page **2**
@@ -8,14 +8,14 @@
   - api, modello/tabella db -> nome, cognome, azienda, nomeutente (generato), email, password **5**
   - api, registrazione e setup con passport local **5**
 
-- Login utente **P8**
+- ## Login utente - **P8**
 
   - ui, form di accesso **2**
   - ui, link a registrazione **1**
   - api, endpoint accesso **1**
   - api, login passport local **2**
 
-- Definizione nuovo magazzino **2**
+- ## Definizione nuovo magazzino - **P2**
   - ui, lista magazzini con stato, percentuale riempimento e collegamento a crea nuovo **5**
   - ui, inserimento dati generali (nome, indirizzo) **2**
   - ui, inserimento dimensioni **2**
@@ -26,7 +26,7 @@
 
 # Utilizzo magazzino
 
-- Scansione codice e registrazione paccco **P3**
+- ## Scansione codice e registrazione paccco - **P3**
 
   - ui, lista pacchi presenti **3**
   - ui, nuovo pacco/generalità **2**
@@ -43,7 +43,7 @@
   - api, salvataggio entità su db **8**
   - api, avvio calcolo **2**
 
-- Calcolo posizionamento ottimale **P1**
+- ## Calcolo posizionamento ottimale - **P1**
 
   - ui, panoramica isole **8**
   - ui, avviso creazione nuova isola/assegnazione a isola **2**
@@ -58,7 +58,7 @@
   - api, endpoint isole -> salvataggio su db **5**
   - api, salvataggio posizione e id isola collo su db **5**
 
-- Scarico colli/modifica **P4**
+- ## Scarico colli/modifica - **P4**
   - ui, selezione collo da elenco **3**
   - ui, ricerca collo **2**
   - ui, pagina di scaricamento **5**

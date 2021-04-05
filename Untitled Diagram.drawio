@@ -1,1 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T19:50:30.980Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" version="14.5.7" etag="ombdL9XC6bov402UXNfr" type="github"><diagram id="PECROV6HsEnca7NtodL6">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-05T20:46:45.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fUZdipWB1Xo6D6ttSsr9" version="14.5.7" type="github">
+  <diagram id="PECROV6HsEnca7NtodL6" name="Page-1">
+    <mxGraphModel dx="1221" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="GhwxT5g6z13AvjHOPLht-22" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="40" width="600" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-20" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="243" width="570" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;dashed=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="60" width="720" height="183" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-1" value="&lt;b&gt;Che cos&#39;è? &lt;/b&gt;Motore di template EJS&lt;br&gt;&lt;b&gt;Cosa fa?&lt;/b&gt;&amp;nbsp;Fornisce al server le istruzioni su come costruire le pagine HTML prima di inviarle al client&lt;br&gt;&lt;b&gt;Dov&#39;è?&lt;/b&gt;&amp;nbsp;Nel codice del server" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="183" width="320" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="GhwxT5g6z13AvjHOPLht-2" target="GhwxT5g6z13AvjHOPLht-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-7" value="connessione tramite&lt;br&gt;&amp;nbsp;Mongoose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GhwxT5g6z13AvjHOPLht-6">
+          <mxGeometry x="0.2055" y="1" relative="1" as="geometry">
+            <mxPoint x="-5.649999999999999" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-2" value="&lt;b&gt;Che cos&#39;è? &lt;/b&gt;Logica di dominio&lt;br&gt;&lt;b&gt;Cosa fa?&lt;/b&gt;&amp;nbsp;Gestisce le operazioni della nostra applicazione&lt;br&gt;&lt;b&gt;Dov&#39;è? &lt;/b&gt;Nel codice del server" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="320" y="243" width="320" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-3" value="&lt;b&gt;Che cos&#39;è? &lt;/b&gt;DB Doc. e NoSQL MongoDB&lt;br&gt;&lt;b&gt;Dov&#39;è? &lt;/b&gt;Su una macchina virtuale gestita completamente da un servizio che si chiama MongoDB Atlas e ci consente di istanziare velocemente dei database remoti e ottenere una stringa di connessione" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
+          <mxGeometry x="930" y="290" width="300" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-5" value="RML" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="930" y="268" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="GhwxT5g6z13AvjHOPLht-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="735" y="133" as="sourcePoint" />
+            <mxPoint x="480" y="183" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="889" y="133" />
+              <mxPoint x="480" y="133" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-13" value="Utente schiaccia &lt;br&gt;bottoni e scrive cose" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="GhwxT5g6z13AvjHOPLht-12">
+          <mxGeometry x="-0.3369" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-15" value="HTML semplicissimo SENZA JS" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;" vertex="1" parent="1">
+          <mxGeometry x="890" y="90" width="80" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-19" value="PL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="43" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-21" value="ALL" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="270" y="423" width="40" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="GhwxT5g6z13AvjHOPLht-23" value="Server in Typescript compilato in JS e interpretato da Node (che è una runtime)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="250" y="10" width="260" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

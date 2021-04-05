@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-04-05T20:46:45.626Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="fUZdipWB1Xo6D6ttSsr9" version="14.5.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-05T20:47:20.508Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/89.0.4389.90 Safari/537.36" etag="Eeuh0S0eWxuv4l32281T" version="14.5.7" type="github">
   <diagram id="PECROV6HsEnca7NtodL6" name="Page-1">
     <mxGraphModel dx="1221" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GhwxT5g6z13AvjHOPLht-2" value="&lt;b&gt;Che cos&#39;è? &lt;/b&gt;Logica di dominio&lt;br&gt;&lt;b&gt;Cosa fa?&lt;/b&gt;&amp;nbsp;Gestisce le operazioni della nostra applicazione&lt;br&gt;&lt;b&gt;Dov&#39;è? &lt;/b&gt;Nel codice del server" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
-          <mxGeometry x="320" y="243" width="320" height="70" as="geometry" />
+          <mxGeometry x="320" y="243" width="320" height="57" as="geometry" />
         </mxCell>
         <mxCell id="GhwxT5g6z13AvjHOPLht-3" value="&lt;b&gt;Che cos&#39;è? &lt;/b&gt;DB Doc. e NoSQL MongoDB&lt;br&gt;&lt;b&gt;Dov&#39;è? &lt;/b&gt;Su una macchina virtuale gestita completamente da un servizio che si chiama MongoDB Atlas e ci consente di istanziare velocemente dei database remoti e ottenere una stringa di connessione" style="rounded=0;whiteSpace=wrap;html=1;align=left;" vertex="1" parent="1">
           <mxGeometry x="930" y="290" width="300" height="120" as="geometry" />
